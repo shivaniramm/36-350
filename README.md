@@ -1,2 +1,2 @@
 # 36-350
-Statistical Computing at Carnegie Mellon University
+This is a demonstration repository for Statistical Computing. Please ignore its contents!
